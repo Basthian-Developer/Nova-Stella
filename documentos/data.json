@@ -13,21 +13,11 @@
     "desc": "Una historia dolorosa de perdidas y sangre, pero tambien de esperanza.",
     "info": {
       "ruta": "/novelas/seiya",
-      "sinopsis": "Stardust Seiya, un joven proveniente de los tiempos de guerra en Japón, epoca conocida como Sengoku, fue transportado a un mundo fantastico llamado HySpain, sin embargo, una serie de eventos le ha hecho reflexionar y rememorar todas las buenas y malas experiencias que sufrio para convertise en lo que hoy es. \n ¿Existira algo o alguien que le de la esperanza para seguir viviendo?.",
+      "sinopsis": "Stardust Seiya, un joven proveniente de los tiempos de guerra en Japón, epoca conocida como Sengoku, fue transportado a un mundo fantastico llamado HySpain, sin embargo, una serie de eventos le han hecho reflexionar y rememorar todas las buenas y malas experiencias que sufrio para convertise en lo que hoy es. \n ¿Existira algo o alguien que le de la esperanza para seguir viviendo?.",
       "capitulos": [
         {
           "id": 1,
-          "title": "El preludio del vacío",
-          "slug": "#"
-        },
-        {
-          "id": 2,
-          "title": "Sombras del origen",
-          "slug": "#"
-        },
-        {
-          "id": 3,
-          "title": "La caída silenciosa",
+          "title": "El preludio",
           "slug": "#"
         }
       ]
@@ -49,7 +39,7 @@
     ],
     "desc": "En un mundo donde solo gobierna el más fuerte, dos hermanos unidos por la sangre desafiarán al destino.",
     "info": {
-      "ruta": "/novelas/hermandad-y-sangre",
+      "ruta": "#",
       "sinopsis": "En un mundo donde solo gobierna el más fuerte, dos hermanos unidos por la sangre desafiarán al destino.",
       "capitulos": []
     },
@@ -68,7 +58,7 @@
     ],
     "desc": "El orden y el caos reinan en altamar, pero una aventurera luchara por ser el terror de los 7 mares.",
     "info": {
-      "ruta": "/novelas/caminos-de-gloria",
+      "ruta": "#",
       "sinopsis": "El orden y el caos reinan en altamar, pero una aventurera luchara por ser el terror de los 7 mares.",
       "capitulos": []
     },
